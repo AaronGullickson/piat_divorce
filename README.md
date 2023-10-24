@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Divorce and Education
 
 # Introduction
 
@@ -10,12 +10,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic:
 
-Describe research topic
+We will use data from the National Longitudinal Survey of Youth 1997 (NLSY97) to examine the relationship between divorce and education. We will also examine how this relationship varies by urbanicity (urban vs. rural status).
 
 ### Research questions
 
-1.  x related to y
-2.  contextual variable
+1.  How does a person's educational level effect the likelihood of getting divorced?
+2.  How does the relationship between divorce and education vary by urbanicity?
 
 ## Technical Details
 
